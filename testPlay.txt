@@ -7,6 +7,9 @@ d = a - c
 print("HelloWorld")
 print('Hi')
 
+本気出す
+
+
 
 
 
