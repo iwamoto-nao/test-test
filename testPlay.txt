@@ -6,6 +6,11 @@ d = a - c
 
 print("HelloWorld")
 print('Hi')
+for i in b:
+	e += i
+print(e)
+
+明日から
 
 本気出す
 
