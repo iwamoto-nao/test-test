@@ -4,5 +4,9 @@ b = np.array[1,2,3,4,5]
 c = 100
 d = a - c
 
+print("HelloWorld")
 print('Hi')
+
+
+
 
