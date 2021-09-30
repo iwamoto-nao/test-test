@@ -10,6 +10,8 @@ for i in b:
 	e += i
 print(e)
 
+明日から
+
 
 
 
