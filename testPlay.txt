@@ -1,0 +1,6 @@
+import numpy as np
+a = np.random.sample(range(0,10),3)
+b = np.array[1,2,3,4,5]
+c = 100
+d = a - c
+
